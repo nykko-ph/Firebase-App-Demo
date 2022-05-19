@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "498549108273",
+    "firebase_url": "https://quick-db-practice-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quick-db-practice",
+    "storage_bucket": "quick-db-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498549108273:android:13d28564af8e75e020af10",
+        "android_client_info": {
+          "package_name": "com.noi.quickdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498549108273-lhjnik3qkfc7fjtg5q8htkr1mh6ovmrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecVSERfVbvj6leJrp609nO8W2gKz6Gy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498549108273-lhjnik3qkfc7fjtg5q8htkr1mh6ovmrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
