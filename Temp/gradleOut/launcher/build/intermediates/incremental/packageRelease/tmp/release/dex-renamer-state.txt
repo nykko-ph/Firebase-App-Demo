@@ -1,4 +1,0 @@
-#Mon May 16 04:57:14 SGT 2022
-base.0=D\:\\Unity Projects\\Firebase App Demo\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
